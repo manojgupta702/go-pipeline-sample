@@ -1,5 +1,6 @@
 inputSet:
   name: Build_go_pipeline_sample_1697038648167-push-trigger-input-set
+  tags: {}
   identifier: Build_go_pipeline_sample_1697038648167pushtriggerinputset
   orgIdentifier: default
   projectIdentifier: default_project
